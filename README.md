@@ -1,0 +1,3 @@
+- 👋 Ola, Meu nome é Hugo Magalhães Ribeiro
+- 👀 No momento interessado por analise de dados e business intelligence ...
+- 🌱 Estou estudando analise de dados em powerbi
