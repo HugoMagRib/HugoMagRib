@@ -3,5 +3,5 @@
 - 🌱 Estou estudando Python, powerbi e SQL...
 - ✔️Aqui coloco todos os projetos que participo.</br>
 
-- [portfolio PowerBI](https://hugomagrib.github.io/) </br>
-- [portfolio Python](https://github.com/HugoMagRib/Scripts_Python)
+- [Portfolio PowerBI](https://hugomagrib.github.io/) </br>
+- [Portfolio Python](https://github.com/HugoMagRib/Scripts_Python)
